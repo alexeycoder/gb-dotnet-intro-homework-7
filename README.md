@@ -13,7 +13,7 @@
 
 *Пример:*
 
-
+![task47-example](https://user-images.githubusercontent.com/109767480/187037756-80c1780e-6424-4061-8c9e-328e30716623.png)
 
 ### Задача 50
 
@@ -27,7 +27,11 @@
 
 *Примеры:*
 
+![task50-example-1](https://user-images.githubusercontent.com/109767480/187037764-dc9ae794-b346-4931-b039-867f967a4cca.png)
 
+![task50-example-2](https://user-images.githubusercontent.com/109767480/187037769-8cddd93d-0784-4859-ac5d-c1ea4b141016.png)
+
+![task50-example-3](https://user-images.githubusercontent.com/109767480/187037772-5c153656-fe71-4259-825f-6b7c2e6dabe0.png)
 
 ### Задача 52
 
@@ -43,5 +47,6 @@
 
 *Примеры:*
 
+![task52-example-1](https://user-images.githubusercontent.com/109767480/187037778-74a050ab-a9d8-44c7-b65e-1cd9d8dbe552.png)
 
-
+![task52-example-2](https://user-images.githubusercontent.com/109767480/187037780-b3f5420b-04c4-4585-bd12-13ac7764fa2e.png)
